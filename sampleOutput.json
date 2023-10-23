@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Exclusive: Japan regulator sounded out top domestic banks about China risks, sources say - Reuters.com",
+            "description": "Japan's financial regulator has sounded out top domestic banks about China risks and whether they have plans in place if Sino-Western tensions escalate, according to multiple sources with direct knowledge of the matter.",
+            "url": "https://www.reuters.com/business/finance/japan-regulator-sounded-out-top-domestic-banks-about-china-risks-sources-say-2023-06-19/",
+            "urlToImage": "https://www.reuters.com/resizer/CUqFgyyWaMMQRQbKMrbBBhAAVcY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/22PHZZRGUBNDZEXBHHUVGFYRNY.jpg",
+            "publishedAt": "2023-06-19T08:22:00Z",
+            "content": "TOKYO, June 19 (Reuters) - Japan's financial regulator has sounded out top domestic banks about China risks and whether they have plans in place if Sino-Western tensions escalate, according to multip… [+4173 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "China seen cutting key lending benchmarks as economy slows - Reuters",
+            "description": "China is widely expected to cut key lending benchmarks on Tuesday in the first such easing in 10 months, a Reuters survey showed, as authorities seek to shore up a slowing recovery in the world's second-largest economy.",
+            "url": "https://www.reuters.com/world/china/china-seen-cutting-key-lending-benchmarks-economy-slows-2023-06-19/",
+            "urlToImage": "https://www.reuters.com/resizer/Xb-eR4wdZwx7pw85USmsC1Hi8wM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/JVRW2WSG6ZKIHCDXZ42CCSQOCY.jpg",
+            "publishedAt": "2023-06-19T07:19:00Z",
+            "content": "SHANGHAI/SINGAPORE, June 19 (Reuters) - China is widely expected to cut key lending benchmarks on Tuesday in the first such easing in 10 months, a Reuters survey showed, as authorities seek to shore … [+2890 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Kylie Atwood,Simone McCarthy",
+            "title": "Blinken meets China’s top diplomat in final day of high stakes visit to Beijing - CNN",
+            "description": "US Secretary of State Antony Blinken sat down with China’s top diplomat Monday on the final day of a high stakes visit to Beijing aimed at stabilizing relations, which cratered in the wake of a dispute over a Chinese surveillance balloon.",
+            "url": "https://www.cnn.com/2023/06/18/china/blinken-china-visit-wang-yi-meeting-intl-hnk/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230619035211-blinken-china-0619.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-06-19T04:53:00Z",
+            "content": "US Secretary of State Antony Blinken sat down with Chinas top diplomat Monday on the final day of a high stakes visit to Beijing aimed at stabilizing relations, which cratered in the wake of a disput… [+5388 chars]"
+        },
+        {
+            "source": {
+                "id": "bloomberg",
+                "name": "Bloomberg"
+            },
+            "author": "David Finnerty",
+            "title": "While Yuan Struggles Other China Proxies Are Beginning to Soar - Bloomberg",
+            "description": "China’s move to ramp up stimulus measures to boost its economy is providing little fillip for the yuan, while its proxy currencies climb up the regional leaderboard and look to extend gains.",
+            "url": "https://www.bloomberg.com/news/articles/2023-06-18/while-yuan-struggles-other-china-proxies-are-beginning-to-soar",
+            "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/i.qECAB_RvZk/v0/1200x800.jpg",
+            "publishedAt": "2023-06-18T23:00:00Z",
+            "content": "China’s move to ramp up \r\nstimulus measures to boost its economy is providing little fillip for the yuan, while its proxy currencies climb up the regional leaderboard and look to extend gains.\r\nThe K… [+364 chars]"
+        }
+    ]
+}
